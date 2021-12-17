@@ -8,7 +8,7 @@ const About = () => {
         <title>Minh</title>
         <meta name="keywords" content="ninjas"></meta>
       </Head>
-      <div>dasdasdasdsadasdaaa</div>
+      <div>Hello</div>
     </>
   );
 };
